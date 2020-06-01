@@ -1,1 +1,3 @@
 class Dance
+
+end
