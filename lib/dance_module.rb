@@ -1,1 +1,1 @@
-class DanceModule
+class Dance
