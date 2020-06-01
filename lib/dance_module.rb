@@ -1,4 +1,5 @@
 module Dance
+  extend MetaDancer
   def twirl
     "I'm twirling!"
   end
